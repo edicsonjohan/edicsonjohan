@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @edicsonjohan 
 - 👀 I’m interested in aprender a programar en distintos lenguajes       
-- 🌱 I’m currently learning lo basico en programcion
+- 🌱 I’m currently learning lo basico en programacion
 - 💞️ I’m looking to collaborate on proyectos para desarrollar sitios web          
 - 📫 How to reach me al correo edicsonjohanlopez@gmail.com
 
